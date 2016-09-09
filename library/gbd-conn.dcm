@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SWD_Debug_Connector
+D SWD Jtag Connector, double row, 02x05
+K connector, SWD, ARM_10_PIN_SMT, ARM_10_PIN
+$ENDCMP
+#
+#End Doc Library
