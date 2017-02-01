@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TXC-7W-20.000MBB-T
+D OSC, 20.000MHZ, 3.3V, SMD, 7.0X5.0
+K OSC
+$ENDCMP
+#
+#End Doc Library
