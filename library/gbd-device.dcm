@@ -38,4 +38,10 @@ D OSC, 20.000MHZ, 3.3V, SMD, 7.0X5.0
 K OSC
 $ENDCMP
 #
+$CMP UCC27714D
+D 555-series timer IC
+K timer
+F ns/lm555.pdf
+$ENDCMP
+#
 #End Doc Library
