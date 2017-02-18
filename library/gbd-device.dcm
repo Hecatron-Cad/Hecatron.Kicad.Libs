@@ -6,6 +6,15 @@ K timer
 F ns/lm555.pdf
 $ENDCMP
 #
+$CMP LD29150DT33R
+D Linear Regulator +3.3V, 1.5A, 30V max input, LDO
+K POWER REGUL DPACK DPAK
+$ENDCMP
+#
+$CMP LD29150DT50R
+D Linear Regulator +5V, 1.5A, 30V max input, LDO
+$ENDCMP
+#
 $CMP LED_Dual_2pin_Gbd
 D LED dual, 2pin version
 K led diode bicolor dual
