@@ -36,9 +36,15 @@ $CMP PSU_12V
 D 12V Mains Power Supply
 $ENDCMP
 #
+$CMP R-78E3.3-0.5
+D DC/DC converter high efficiency, wide voltage input range, Voltage Regulator, Io up to 500mA, Fixed Vo, DPAK.
+K regulator voltage
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
+$ENDCMP
+#
 $CMP R-78E5.0-0.5
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 1.5V, DPAK.
-K LDO regulator voltage
+D DC/DC converter high efficiency, wide voltage input range, Voltage Regulator, Io up to 500mA, Fixed Vo, DPAK.
+K regulator voltage
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
 $ENDCMP
 #
